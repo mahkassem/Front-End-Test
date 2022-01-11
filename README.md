@@ -7,3 +7,7 @@ POST https://cookforme.mvdev.xyz/api/upload-image
 ```
 ### Request Body
 - **image**: file input, allowed extensions: jpg, jpeg, png, max file size: 20MB.
+
+#### Bonus
+- Upload progress.
+- Handle validation errors.
